@@ -9,15 +9,18 @@
 
 ---
 
-### 📚 What I'm currently learning:
+### 📚 What I have learned:
 - **Advanced Machine Learning Techniques**
 - **Cloud Services (AWS, Azure)**
 - **Big Data Analytics using Hadoop and Spark**
 
-### 🔭 I'm currently working on:
+### 🔭 I have worked on:
 - **AI-based Text Spotting models for Visual Documents data Using Regular Expressions**
 - **Developing Personalized AI Tools for Education**
-- **Developing Graph Anomaly Detection models for Transactions data** 
+- **Developing Graph Anomaly Detection models for Transactions data**
+- **Image Captioning web Application**
+- **Web Application for Medical Text Summarization in two different languages**
+- **Multi-Vehicle Trajectory Prediction in Intersections**
 
 ### 🛠️ Tools & Technologies:
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
@@ -36,9 +39,6 @@
 ### 📫 How to reach me:
 - **[LinkedIn](https://www.linkedin.com/in/daniel-alejandro-vidal-guerra-21386b266/)**
 - **Email: danielvidal130602@gmail.com**
-
-### ⚡ Fun fact:
-- **I like to play video games and participate in hackathons!**
 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW80MmMxdWNjaTZ3OXJpeGtocXBrOW1oeXRsbDlvZTh1MnE0bXc5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XreQmk7ETCak0/giphy.gif" width="500" height="300" />
