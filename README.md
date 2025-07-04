@@ -10,7 +10,7 @@
 ---
 
 ### 📚 What I have learned:
-- **Advanced Machine Learning Techniques**
+- **Advanced Machine Learning Techniques for Computer Vision, Natural Language Processing and Reinforce Learning**
 - **Cloud Services (AWS, Azure)**
 - **Big Data Analytics using Hadoop and Spark**
 
